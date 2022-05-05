@@ -20,6 +20,7 @@ body
     color: red;
     background-color: yellow;
     text-align: center;
+    border: 1px solid gray;
 }
 
 #container h1
